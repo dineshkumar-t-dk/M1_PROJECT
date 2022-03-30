@@ -2,4 +2,4 @@
 * Sololearn
 * NDG Linux
 * First day Github - Screenshot
-* Simplilearn
+* Git Training
