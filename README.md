@@ -34,7 +34,7 @@
     
     
  * Cpp check
- [![cppcheck-action](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/c-cpp.yml)
+ [![Code Quality - Static Code - Cppcheck](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/cppcheck.yml)
  
  
  * Gitinspector
