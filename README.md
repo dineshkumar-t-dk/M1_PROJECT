@@ -30,3 +30,8 @@
      
  * Valgrind
     [![Valgrind](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/valgrind.yml/badge.svg)](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/valgrind.yml)
+    
+    
+    
+ * Cpp check
+ [![cppcheck-action](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/c-cpp.yml)
