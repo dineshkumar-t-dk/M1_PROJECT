@@ -25,3 +25,8 @@
  
  
      https://api.codiga.io/project/32532/status/svg
+     
+     
+     
+ * Valgrind
+    [![Valgrind](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/valgrind.yml/badge.svg)](https://github.com/dineshkumar-t-dk/M1_Restaurant_Bill/actions/workflows/valgrind.yml)
