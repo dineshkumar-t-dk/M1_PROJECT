@@ -18,13 +18,13 @@
 * Codiga 
 
 
-   https://api.codiga.io/project/32532/score/svg 
+  code Quality ![Code Quality Score]( https://api.codiga.io/project/32532/score/svg) 
  
  
  
  
  
-     https://api.codiga.io/project/32532/status/svg
+    Quality Grade ![Quality Grade]( https://api.codiga.io/project/32532/status/svg)
      
      
      
